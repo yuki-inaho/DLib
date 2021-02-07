@@ -30,6 +30,9 @@
 #define __D_BRIEF_256__
 
 #include <opencv2/core/core.hpp>
+#include <opencv2/imgproc.hpp>
+#include <opencv2/videoio.hpp>
+#include <DUtils/DUtils.h>
 #include <opencv2/features2d/features2d.hpp>
 #include <vector>
 #include <bitset>
